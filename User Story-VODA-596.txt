@@ -1,0 +1,23 @@
+Scenarios:
+1.Free deal(SMS template available)
+Added with all the details and uploaded and replaced the image, edited and also added vouchers and gets saved.
+
+2.Premium(SMS template available)
+Added with all the details and uploaded and replaced the image, edited and also added vouchers and gets saved.
+
+3.Lite Advert(SMS template available)
+Added with all the details and uploaded and replaced the image , edited and also added vouchers and gets saved.
+
+4.Premium and  lite advert(SMS template available)
+Added with all the details and uploaded and replaced the image, edited and also added vouchers and gets saved.
+
+5.Voucher campaign(SMS template is not available)
+Added with all the details and uploaded and replaced the image , edited and also added vouchers and gets saved.
+
+6.Already added deal verified:(Impact in Old)
+In 2314 deal which was already added has sms template in which nothing is selected but when saved asked to select sms template and when selected sms template and saved gets saved.
+
+Issues:
+In SMS template in the dropdown of SMS template the Recharge airtime voucher should get displayed but it is showing as the Recharge airtime vouche.
+
+Sometimes when uploading picture takes time to get uploaded which occurs randomly.

@@ -1,0 +1,50 @@
+Chat Thai testing:
+ 
+https://cms.staging.chatthai.muulla.com // alejandro@csbengage.com // 123456
+
+https://app.staging.chatthai.muulla.com (use your own credentials)
+
+https://mobile.staging.chatthai.muulla.com (use your own credentials)
+
+Please use the standard Muulla use case and testing spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1U3ZmnO3lXiMVSLnl3BVujZuxj7dFHVND1wrTqUFWhKY/edit?usp=sharing
+
+Muulla Demo.
+ 
+Use case spreadsheet: https://docs.google.com/spreadsheets/d/1U3ZmnO3lXiMVSLnl3BVujZuxj7dFHVND1wrTqUFWhKY/edit?usp=sharing
+ 
+
+CMS: http://cms.demo.muulla.com // alejandro@csbengage.com // 123456
+
+Mobile app: http://mobile.demo.muulla.com // Please register for your own account
+
+Web app: http://app.demo.muulla.com // Please register for your own account
+
+ 
+"The Classic Cupcake Co.":
+https://docs.google.com/spreadsheets/d/1U3ZmnO3lXiMVSLnl3BVujZuxj7dFHVND1wrTqUFWhKY/edit?usp=sharing
+ 
+Here are the URLs for the customer app (mobile and web)
+
+https://mobile.staging.theccc.muulla.com
+
+https://app.staging.theccc.muulla.com
+
+https://cms.staging.theccc.muulla.com
+
+Credentials: alejandro@csbengage.com // 123456
+
+Uhelp 
+
+http://cms.staging.uhelp.muulla.com
+
+http://app.staging.uhelp.muulla.com/#!/landing
+
+Uhelp: https://docs.google.com/spreadsheets/d/1i8jLwu0Cs9JWSXmFF-H1WJqHDKgbVw5dyBRCVwpoVA0/edit?usp=sharing
+
+Rocamamas:
+
+https://docs.google.com/spreadsheets/d/1my0ELgNw69ayeiCtwzVbH0spDVcwXnc21PJjKPLNcGw/edit#gid=220927682
+
+(IOS device testing)

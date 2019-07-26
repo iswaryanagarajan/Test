@@ -1,0 +1,2 @@
+1,Bidvest Lounges,,Athlone,Athlone,(021) 699 1100,https://www.virginactive.co.za/clubs/all-clubs,,Gateway Mall,Temple  street,,,Gateville,7764,Western Cape,ZA,-33.96979,18.53386,,Africa/Johannesburg,05:00,21:00,,05:00,21:00,,05:00,21:00,,05:00,21:00,,05:00,20:00,,06:00,18:00,,06:00,18:00,
+2,Celcom,,Athlone,Athlone,(021) 699 1100,https://www.Edcon.com/clubs/all-clubs,,Gateway Mall,Temple  street,,,Gateville,7764,Western Cape,ZA,-33.96979,18.53386,,Africa/Johannesburg,05:00,21:00,,05:00,21:00,,05:00,21:00,,05:00,21:00,,05:00,20:00,,06:00,18:00,,06:00,18:00,
