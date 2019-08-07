@@ -28,3 +28,10 @@ In July Month
 23/07/19	Tested Payment gateway for Rocamamas in IOS Device and reported issues for scanning  the QR code 
 24/07/19	Tested QR code in the IOS device for Rocamamas and tested Switch on benefits CMS application
 25/07/19	Tested the Switch on benefits application in 4 different Logins
+26/07/19	Completed testing the Mobile application of Switch on benefits.
+29/07/19	Discussed issues of Switch on benefits application  and gone through rocamamas use cases
+30/07/19	Rocamamas use cases updation and tested the CMS application deal scenarios for switch on benifits
+31/07/19	Retested the fixed issues of CMS switch on benefits application
+
+In August month
+01/08/19	Tested Kounta ordering scenarios for Chat thai application
